@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vikulek/web/sitemap.xml
+Sitemap: https://vikulek.github.io/web/sitemap.xml
